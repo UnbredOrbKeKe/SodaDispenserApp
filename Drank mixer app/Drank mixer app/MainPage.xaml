@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Drank_mixer_app.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24, 0, 24, 0" CornerRadius="0">
+            <Label Text="Welkom bij de MixXxer!" HorizontalTextAlignment="Center" TextColor="White" FontSize="34"/>
+        </Frame>
+        <Label Text="Start nu met mixXxen!" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Druk op de knop hieronder om te beginnen met het mixXxen van je drankjes!" 
+               FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+        </Label>
+
+        <Button x:Name="BeginMix"
+                FontSize="Body"
+                Text="Begin het mixXxen"
+                WidthRequest="250"
+                HeightRequest="50"
+                HorizontalOptions="Center"
+                Clicked="BeginMix_Clicked"></Button>
+
+        <Image x:Name="homescreenPic" 
+               Source="https://static.foodyard.nl/1190/conversions/cocktails-delixl-slot22.jpg"
+               Margin="0, 220, 0, 0"
+               ></Image>
+    </StackLayout>
+
+</ContentPage>

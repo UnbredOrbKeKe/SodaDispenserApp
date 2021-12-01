@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Drank_mixer_app.KiesDrank">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Kies hier uw dranken!"
+                   Margin="0, 25, 0, 0"
+                   FontSize="20"
+                HorizontalOptions="CenterAndExpand" 
+                TextColor="White"/>
+            <Grid HeightRequest="1000">
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                
+               
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+               
+                <ImageButton x:Name="ColaKnop"
+                             Grid.Column="1"
+                             Grid.Row="0"
+                             Source="https://logos-world.net/wp-content/uploads/2020/03/Coca-Cola-Logo-1987-2009.png"
+                             Padding="4, 0, 4, 0"
+                             Clicked="Cola_Clicked"
+                             CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+
+                <ImageButton x:Name="SonnemaKnop"
+                             Grid.Column="0"
+                             Grid.Row="0"
+                             Source="https://www.drankgigant.nl/media/catalog/product/cache/5302153a4b78cff75d07c130fe2dbf33/s/o/sonnema_beerenburg_logo_4.webp"
+                             Padding="4, 0, 4, 0"
+                             Clicked="Sonnema_Clicked"
+                              CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+
+                <ImageButton Grid.Column="1"
+                        Grid.Row="1"
+                             CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+
+                <ImageButton Grid.Column="0"
+                         Grid.Row="1"
+                             CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+
+                <ImageButton Grid.Column="1"
+                         Grid.Row="2"
+                             CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+
+                <ImageButton Grid.Column="0"
+                         Grid.Row="2"
+                             CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+
+                <ImageButton Grid.Column="1"
+                         Grid.Row="3"
+                             CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+
+                <ImageButton Grid.Column="0"
+                         Grid.Row="3"
+                             CornerRadius="25"
+                             BackgroundColor="White">
+                    
+                </ImageButton>
+                
+            </Grid>
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

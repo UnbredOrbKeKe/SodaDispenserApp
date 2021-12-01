@@ -1,0 +1,16 @@
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.deps.json
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.dll
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\ref\Drank mixer app.dll
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.pdb
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.AssemblyReference.cache
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfoInputs.cache
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfo.cs
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.dll
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\ref\Drank mixer app.dll
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.pdb
+C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\KiesDrank.xaml.g.cs

@@ -4,7 +4,8 @@
              x:Class="Drank_mixer_app.KiesDrank">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Kies hier uw dranken!"
+            <Label x:Name="kut"
+                Text="Kies hier uw dranken!"
                    Margin="0, 25, 0, 0"
                    FontSize="20"
                 HorizontalOptions="CenterAndExpand" 
@@ -36,6 +37,7 @@
                     
                 </ImageButton>
 
+
                 <ImageButton x:Name="SonnemaKnop"
                              Grid.Column="0"
                              Grid.Row="0"
@@ -45,14 +47,16 @@
                               CornerRadius="25"
                              BackgroundColor="White">
                     
+                    
                 </ImageButton>
 
                 <ImageButton Grid.Column="1"
                         Grid.Row="1"
                              CornerRadius="25"
                              BackgroundColor="White">
-                    
+
                 </ImageButton>
+                
 
                 <ImageButton Grid.Column="0"
                          Grid.Row="1"

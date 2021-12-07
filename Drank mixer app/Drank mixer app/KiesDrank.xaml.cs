@@ -19,12 +19,12 @@ namespace Drank_mixer_app
 
         private void Cola_Clicked(object sender, EventArgs e)
         {
-            kut.Text = Arduino.Cummunicate();
+            Arduino.Cummunicate("?aan5");
         }
 
         private void Sonnema_Clicked(object sender, EventArgs e)
         {
-
+            Arduino.Cummunicate("?uit5");
         }
     }
 }

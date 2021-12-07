@@ -8,17 +8,18 @@ namespace Drank_mixer_app
 {
     public class Arduino
     {
-        public static string Cummunicate()
+        public static void Cummunicate(string led)
         {
             string result = "No Response";
-            IPAddress ipAddress = IPAddress.Parse("169.254.127.17"); //laptop connection
+            //IPAddress ipAddress = IPAddress.Parse("169.254.127.17"); //laptop connection
+            IPAddress ipAddress = IPAddress.Parse("192.168.178.12");
             IPEndPoint endPoint = new IPEndPoint(ipAddress, 42069); //instellen op welke poort en ip wordt gecommunicate
             Socket s = new Socket(ipAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             s.Connect(endPoint);
             if (s.Connected)
             {
                 //send
-                byte[] msg = Encoding.ASCII.GetBytes("<TEMP>");
+                byte[] msg = Encoding.ASCII.GetBytes(led);
                 s.Send(msg);
                 //receive
                 //byte[] buffer = new byte[100];
@@ -28,7 +29,7 @@ namespace Drank_mixer_app
                 s.Shutdown(SocketShutdown.Both);
                 s.Close();
             }
-            return result;
+            
         }
         
     }

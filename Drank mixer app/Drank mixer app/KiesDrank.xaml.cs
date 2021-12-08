@@ -15,6 +15,7 @@ namespace Drank_mixer_app
         public KiesDrank()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
         }
 
         private void Cola_Clicked(object sender, EventArgs e)

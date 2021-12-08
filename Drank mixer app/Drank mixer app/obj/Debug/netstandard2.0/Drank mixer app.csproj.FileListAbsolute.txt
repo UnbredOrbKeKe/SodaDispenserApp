@@ -14,19 +14,35 @@ C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\ref\Drank mixer app.dll
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.pdb
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\KiesDrank.xaml.g.cs
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.deps.json
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.dll
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\ref\Drank mixer app.dll
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.pdb
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.AssemblyReference.cache
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.GeneratedMSBuildEditorConfig.editorconfig
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\KiesDrank.xaml.g.cs
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfoInputs.cache
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfo.cs
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.CoreCompileInputs.cache
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\XamlC.stamp
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.dll
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\ref\Drank mixer app.dll
-D:\School\nhlstenden\arcadegameproject\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.pdb
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.deps.json
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.dll
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\ref\Drank mixer app.dll
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.pdb
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.AssemblyReference.cache
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\KiesDrank.xaml.g.cs
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfo.cs
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.dll
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\ref\Drank mixer app.dll
+C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.pdb
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.deps.json
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.dll
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\ref\Drank mixer app.dll
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.pdb
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.AssemblyReference.cache
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\KiesDrank.xaml.g.cs
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfoInputs.cache
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.AssemblyInfo.cs
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.dll
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\ref\Drank mixer app.dll
+C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.pdb

@@ -574,6 +574,7 @@ C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+<<<<<<< HEAD
 C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app.Android\bin\Debug\Drank mixer app.Android.dll
 C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app.Android\bin\Debug\Drank mixer app.Android.pdb
 C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app.Android\bin\Debug\com.companyname.drank_mixer_app.apk
@@ -1726,3 +1727,5 @@ C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer ap
 C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+=======
+>>>>>>> parent of e3bae8b (change)

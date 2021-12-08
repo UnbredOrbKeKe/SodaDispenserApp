@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
+<<<<<<< HEAD
     <SelectedDevice>Samsung SM-A515F</SelectedDevice>
     <ActiveDebugProfile>Samsung SM-A515F</ActiveDebugProfile>
+=======
+    <SelectedDevice>pixel_2_pie_9_0_-_api_28</SelectedDevice>
+    <ActiveDebugProfile>pixel_2_pie_9_0_-_api_28</ActiveDebugProfile>
+>>>>>>> parent of e3bae8b (change)
     <DefaultDevice>pixel_2_pie_9_0_-_api_28</DefaultDevice>
   </PropertyGroup>
 </Project>

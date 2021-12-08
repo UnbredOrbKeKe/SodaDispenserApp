@@ -14,6 +14,7 @@ C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\ref\Drank mixer app.dll
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.pdb
 C:\Users\Startklaar\Desktop\Visual studio dingen\Drank mixer app\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\KiesDrank.xaml.g.cs
+<<<<<<< HEAD
 C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.deps.json
 C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\Drank mixer app.dll
 C:\Users\denni\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\bin\Debug\netstandard2.0\ref\Drank mixer app.dll
@@ -46,3 +47,5 @@ C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer ap
 C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.dll
 C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\ref\Drank mixer app.dll
 C:\Users\Dennis\Documents\GitHub\SodaDispenserApp\Drank mixer app\Drank mixer app\obj\Debug\netstandard2.0\Drank mixer app.pdb
+=======
+>>>>>>> parent of e3bae8b (change)

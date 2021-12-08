@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 AdbTarget=-s R58N906MGVN
+=======
+AdbTarget=-s R58M385R2WT
+>>>>>>> parent of e3bae8b (change)
 AdbOptions=

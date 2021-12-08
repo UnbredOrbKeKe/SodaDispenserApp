@@ -13,7 +13,7 @@ namespace Drank_mixer_app
         public MainPage()
         {
             InitializeComponent();
-            NavigationPage.SetHasNavigationBar(this, false);
+
         }
 
         private async void BeginMix_Clicked(object sender, EventArgs e)

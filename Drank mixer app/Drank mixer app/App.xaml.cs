@@ -9,7 +9,7 @@ namespace Drank_mixer_app
         public App()
         {
             InitializeComponent();
-
+            NavigationPage.SetHasNavigationBar(this, false);
             MainPage = new NavigationPage(new Drank_mixer_app.MainPage());
         }
 

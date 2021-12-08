@@ -12,6 +12,7 @@ namespace Drank_mixer_app
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class KiesDrank : ContentPage
     {
+
         public bool pomp1 = true;
         public bool pomp2 = true;
         public bool pomp3 = true;
@@ -19,6 +20,7 @@ namespace Drank_mixer_app
         public bool pomp5 = true;
         public KiesDrank()
         {
+            NavigationPage.SetHasNavigationBar(this, false);
             InitializeComponent();
         }
 

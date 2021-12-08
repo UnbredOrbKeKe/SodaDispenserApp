@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XpirXb4G6GQHBtfS5Y+gTHaYm2jNBnJL7WIiBRNLLOlPlrF/Tx4BR9YmH8JJC+qjpF4Sff85RxZSLMvhqoWd/w==",
+  "dgSpecHash": "uwR9ZH4MfpLc+9FAc2ZHdsn/qr2l92jg11dD8tUqTWh2sOMeiysMp22Souq1yaT59ma2V9QUw+qYFTzevJOeCA==",
   "success": true,
-  "projectFilePath": "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\melle\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Startklaar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

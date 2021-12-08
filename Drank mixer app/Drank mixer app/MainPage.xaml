@@ -4,7 +4,7 @@
              x:Class="Drank_mixer_app.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#000000" Padding="24, 0, 24, 0" CornerRadius="0">
+        <Frame BackgroundColor="#2196F3" Padding="24, 0, 24, 0" CornerRadius="0">
             <Label Text="Welkom bij de MixXxer!" HorizontalTextAlignment="Center" TextColor="White" FontSize="34"/>
         </Frame>
         <Label Text="Start nu met mixXxen!" FontSize="Title" Padding="30,10,30,10"/>

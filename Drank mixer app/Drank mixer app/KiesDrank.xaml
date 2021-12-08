@@ -9,14 +9,10 @@
                    FontSize="20"
                 HorizontalOptions="CenterAndExpand" 
                 TextColor="White"/>
+
+          <ScrollView>
             <Grid HeightRequest="1000">
-                
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition></ColumnDefinition>
-                    <ColumnDefinition></ColumnDefinition>
-                </Grid.ColumnDefinitions>
-                
-               
+                             
                     <Grid.RowDefinitions>
                         <RowDefinition></RowDefinition>
                         <RowDefinition></RowDefinition>
@@ -26,71 +22,80 @@
 
                
                 <ImageButton x:Name="ColaKnop"
-                             Grid.Column="1"
                              Grid.Row="0"
                              Source="https://logos-world.net/wp-content/uploads/2020/03/Coca-Cola-Logo-1987-2009.png"
                              Padding="4, 0, 4, 0"
                              Clicked="Cola_Clicked"
                              CornerRadius="25"
-                             BackgroundColor="White">
+                             BackgroundColor="White"
+                             Margin="10, 0, 10, 10">
                     
                 </ImageButton>
 
                 <ImageButton x:Name="SonnemaKnop"
-                             Grid.Column="0"
-                             Grid.Row="0"
+                             Grid.Row="1"
                              Source="https://www.drankgigant.nl/media/catalog/product/cache/5302153a4b78cff75d07c130fe2dbf33/s/o/sonnema_beerenburg_logo_4.webp"
                              Padding="4, 0, 4, 0"
                              Clicked="Sonnema_Clicked"
                               CornerRadius="25"
-                             BackgroundColor="White">
+                             BackgroundColor="White"
+                              Margin="10, 0, 10, 10">
                     
                 </ImageButton>
 
-                <ImageButton Grid.Column="1"
-                        Grid.Row="1"
+                <ImageButton 
+                        Grid.Row="2"
                              CornerRadius="25"
-                             BackgroundColor="White">
+                             BackgroundColor="White"
+                            Margin="10, 0, 10, 10">
                     
                 </ImageButton>
 
-                <ImageButton Grid.Column="0"
-                         Grid.Row="1"
-                             CornerRadius="25"
-                             BackgroundColor="White">
-                    
-                </ImageButton>
-
-                <ImageButton Grid.Column="1"
-                         Grid.Row="2"
-                             CornerRadius="25"
-                             BackgroundColor="White">
-                    
-                </ImageButton>
-
-                <ImageButton Grid.Column="0"
-                         Grid.Row="2"
-                             CornerRadius="25"
-                             BackgroundColor="White">
-                    
-                </ImageButton>
-
-                <ImageButton Grid.Column="1"
+                <ImageButton 
                          Grid.Row="3"
                              CornerRadius="25"
-                             BackgroundColor="White">
+                             BackgroundColor="White"
+                     Margin="10, 0, 10, 10">
                     
                 </ImageButton>
 
-                <ImageButton Grid.Column="0"
-                         Grid.Row="3"
+                <ImageButton 
+                         Grid.Row="4"
                              CornerRadius="25"
-                             BackgroundColor="White">
+                             BackgroundColor="White"
+                     Margin="10, 0, 10, 10">
+                    
+                </ImageButton>
+
+                <ImageButton 
+                         Grid.Row="5"
+                             CornerRadius="25"
+                             BackgroundColor="White"
+                     Margin="10, 0, 10, 10">
+                    
+                </ImageButton>
+
+                <ImageButton 
+                         Grid.Row="6"
+                             CornerRadius="25"
+                             BackgroundColor="White"
+                     Margin="10, 0, 10, 10">
+                    
+                </ImageButton>
+
+                <ImageButton 
+                         Grid.Row="7"
+                             CornerRadius="25"
+                             BackgroundColor="White"
+                     Margin="10, 0, 10, 10">
                     
                 </ImageButton>
                 
             </Grid>
-           
+            </ScrollView>
+
+            <CarouselView HeightRequest="80"></CarouselView>
+            <IndicatorView></IndicatorView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

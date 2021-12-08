@@ -11,7 +11,6 @@ namespace Drank_mixer_app
             InitializeComponent();
 
             MainPage = new NavigationPage(new Drank_mixer_app.MainPage());
-            NavigationPage.SetHasNavigationBar(this, false);
         }
 
         protected override void OnStart()

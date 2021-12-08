@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {}
+    "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
+    "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
+        "projectUniqueName": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
         "projectName": "Drank mixer app",
-        "projectPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
+        "projectPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
         "packagesPath": "C:\\Users\\Startklaar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\obj\\",
+        "outputPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

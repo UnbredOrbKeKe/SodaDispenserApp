@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
       "projectName": "Drank mixer app.Android",
-      "projectPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
+      "projectPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
       "packagesPath": "C:\\Users\\Startklaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app.Android\\obj\\",
+      "outputPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
-              "projectPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
+            "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
+              "projectPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
             }
           }
         }

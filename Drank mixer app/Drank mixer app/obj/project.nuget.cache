@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6x1TEKC6DHWJmpLwzKWTMBKAST1L69QWTg/3ekDF2dfXZnvx1bFoBFbnn/3n2V07NqMxuQwc/Hz6NFHrghsHWw==",
+  "dgSpecHash": "om6aFTtwHrt1+YPiSYph4BOpuokMO1YkkxRse2njj986jE1Sxl7RxjLWgBwRvv/HLw07RTtrad73l2VhtHaqsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
+  "projectFilePath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Startklaar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Startklaar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

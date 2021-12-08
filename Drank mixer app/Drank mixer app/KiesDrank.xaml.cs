@@ -26,5 +26,20 @@ namespace Drank_mixer_app
         {
 
         }
+
+        private async void Button_Clicked_pre(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new KiesDrank());
+        }
+
+        private async void Button_Clicked_custom(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new CreatePreset());
+        }
+
+        private async void Button_Clicked_settings(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Page1());
+        }
     }
 }

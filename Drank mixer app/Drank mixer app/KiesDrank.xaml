@@ -18,9 +18,15 @@
                         <RowDefinition></RowDefinition>
                         <RowDefinition></RowDefinition>
                         <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
                     </Grid.RowDefinitions>
 
-               
+                   
+                
                 <ImageButton x:Name="ColaKnop"
                              Grid.Row="0"
                              Source="https://logos-world.net/wp-content/uploads/2020/03/Coca-Cola-Logo-1987-2009.png"
@@ -94,8 +100,26 @@
             </Grid>
             </ScrollView>
 
-            <CarouselView HeightRequest="80"></CarouselView>
-            <IndicatorView></IndicatorView>
+            <Grid HeightRequest="100">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+            
+            <Button Text="pre"
+                    Grid.Column="0"
+                    Clicked="Button_Clicked_pre"></Button>
+
+                <Button Text="custom"
+                    Grid.Column="1"
+                        Clicked="Button_Clicked_custom"></Button>
+
+                <Button Text="settings"
+                    Grid.Column="2"
+                        Clicked="Button_Clicked_settings"></Button>
+
+            </Grid>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

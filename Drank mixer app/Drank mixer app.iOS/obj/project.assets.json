@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
       "projectName": "Drank mixer app.iOS",
-      "projectPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
+      "projectPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
       "packagesPath": "C:\\Users\\Startklaar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
-              "projectPath": "C:\\Users\\Startklaar\\Desktop\\Visual studio dingen\\Drank mixer app\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
+            "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
+              "projectPath": "C:\\Users\\Startklaar\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
             }
           }
         }

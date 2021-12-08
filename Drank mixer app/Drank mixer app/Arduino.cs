@@ -11,8 +11,8 @@ namespace Drank_mixer_app
         public static void Cummunicate(string led)
         {
             string result = "No Response";
-            //IPAddress ipAddress = IPAddress.Parse("169.254.127.17"); //laptop connection
-            IPAddress ipAddress = IPAddress.Parse("192.168.178.12");
+            IPAddress ipAddress = IPAddress.Parse("192.168.1.65"); //laptop connection
+            //IPAddress ipAddress = IPAddress.Parse("192.168.178.12"); //desktop
             IPEndPoint endPoint = new IPEndPoint(ipAddress, 42069); //instellen op welke poort en ip wordt gecommunicate
             Socket s = new Socket(ipAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             s.Connect(endPoint);

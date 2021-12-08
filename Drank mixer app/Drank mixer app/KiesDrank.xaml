@@ -26,42 +26,46 @@
                     </Grid.RowDefinitions>
 
                
-                <ImageButton x:Name="ColaKnop"
+                <ImageButton x:Name="Pomp1"
                              Grid.Column="1"
                              Grid.Row="0"
                              Source="https://logos-world.net/wp-content/uploads/2020/03/Coca-Cola-Logo-1987-2009.png"
                              Padding="4, 0, 4, 0"
-                             Clicked="Cola_Clicked"
+                             Clicked="Pomp1_Clicked"
                              CornerRadius="25"
                              BackgroundColor="White">
                     
                 </ImageButton>
 
 
-                <ImageButton x:Name="SonnemaKnop"
+                <ImageButton x:Name="Pomp2"
                              Grid.Column="0"
                              Grid.Row="0"
                              Source="https://www.drankgigant.nl/media/catalog/product/cache/5302153a4b78cff75d07c130fe2dbf33/s/o/sonnema_beerenburg_logo_4.webp"
                              Padding="4, 0, 4, 0"
-                             Clicked="Sonnema_Clicked"
+                             Clicked="Pomp2_Clicked"
                               CornerRadius="25"
                              BackgroundColor="White">
                     
                     
                 </ImageButton>
 
-                <ImageButton Grid.Column="1"
+                <ImageButton x:Name="Pomp3"
+                    Grid.Column="1"
                         Grid.Row="1"
                              CornerRadius="25"
-                             BackgroundColor="White">
+                             BackgroundColor="White"
+                             Clicked="Pomp3_Clicked">
 
                 </ImageButton>
-                
 
-                <ImageButton Grid.Column="0"
+
+                <ImageButton x:Name="Pomp4"
+                    Grid.Column="0"
                          Grid.Row="1"
                              CornerRadius="25"
-                             BackgroundColor="White">
+                             BackgroundColor="White"
+                             Clicked="Pomp4_Clicked">
                     
                 </ImageButton>
 

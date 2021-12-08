@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AY604ROfGuPw7NsapqsGCnHnMywS2TmjvXkKkWgzDgzhOyg7LAAYhzunW22uGorE9VxHiozL77pcNReJX27ogw==",
+  "dgSpecHash": "bjq6oE98N2adbQqyoS1z02UUFA2b4t6IdSRmLnupARtcjZZoLAswQt4elxfOMFqp49KHRMcEXgfYHaw8BR+7cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
+  "projectFilePath": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Dennis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",

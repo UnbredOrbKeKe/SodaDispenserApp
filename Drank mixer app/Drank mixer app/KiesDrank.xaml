@@ -4,7 +4,7 @@
              x:Class="Drank_mixer_app.KiesDrank">
     <ContentPage.Content>
         <StackLayout>
-            <Label x:Name="kut"
+            <Label x:Name="titel"
                 Text="Kies hier uw dranken!"
                    Margin="0, 25, 0, 0"
                    FontSize="20"
@@ -69,10 +69,12 @@
                     
                 </ImageButton>
 
-                <ImageButton Grid.Column="1"
+                <ImageButton x:Name="Pomp5"
+                    Grid.Column="1"
                          Grid.Row="2"
-                             CornerRadius="25"
-                             BackgroundColor="White">
+                             CornerRadius="25"                            
+                             Clicked="Pomp5_Clicked"
+                             BackgroundColor="blue">
                     
                 </ImageButton>
 

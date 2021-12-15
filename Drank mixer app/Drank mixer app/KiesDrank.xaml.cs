@@ -38,12 +38,28 @@ namespace Drank_mixer_app
         {
             Arduino.Cummunicate(Convert.ToString(pomp3) + "3");
             pomp3 = !pomp3;
+
         }
 
         private void Pomp4_Clicked(object sender, EventArgs e)
         {
             Arduino.Cummunicate(Convert.ToString(pomp4) + "4");
             pomp4 = !pomp4;
+        }
+
+        private void Pomp5_Clicked(object sender, EventArgs e)
+        {
+            string value = Arduino.CummunicateR("IsErNogFris");
+            titel.Text = Convert.ToString(value);
+            //if ( Convert.ToInt32(value) < 100)
+            //{
+            //    titel.Text = "Jonge er is nog fris";
+            //}
+            //else
+            //{
+            //    titel.Text = "Jonge fris is op";
+            //}
+            
         }
     }
 }

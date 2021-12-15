@@ -10,8 +10,8 @@ namespace Drank_mixer_app
     {
         public static void Cummunicate(string led)
         {
-            IPAddress ipAddress = IPAddress.Parse("192.168.1.65"); //laptop connection
-            //IPAddress ipAddress = IPAddress.Parse("192.168.178.12"); //desktop
+            //IPAddress ipAddress = IPAddress.Parse("192.168.1.65"); //laptop connection
+            IPAddress ipAddress = IPAddress.Parse("192.168.178.17"); //desktop
             IPEndPoint endPoint = new IPEndPoint(ipAddress, 42069); //instellen op welke poort en ip wordt gecommunicate
             Socket s = new Socket(ipAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             s.Connect(endPoint);
@@ -34,14 +34,14 @@ namespace Drank_mixer_app
         public static string CummunicateR(string fris)
         {
             string result = "No Response";
-            IPAddress ipAddress = IPAddress.Parse("192.168.1.65"); //laptop connection
-            //IPAddress ipAddress = IPAddress.Parse("192.168.178.12"); //desktop
+            //IPAddress ipAddress = IPAddress.Parse("192.168.1.65"); //laptop connection
+            IPAddress ipAddress = IPAddress.Parse("192.168.178.17"); //desktop
             IPEndPoint endPoint = new IPEndPoint(ipAddress, 42069); //instellen op welke poort en ip wordt gecommunicate
             Socket s = new Socket(ipAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             s.Connect(endPoint);
             if (s.Connected)
             {
-                //send
+                //sends
                 byte[] msg = Encoding.ASCII.GetBytes(fris);
                 s.Send(msg);
                 // receive

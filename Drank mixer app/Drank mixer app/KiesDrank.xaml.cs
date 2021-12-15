@@ -12,11 +12,7 @@ namespace Drank_mixer_app
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class KiesDrank : ContentPage
     {
-        public bool pomp1 = true;
-        public bool pomp2 = true;
-        public bool pomp3 = true;
-        public bool pomp4 = true;
-        public bool pomp5 = true;
+        
         public KiesDrank()
         {
             InitializeComponent();
@@ -24,41 +20,56 @@ namespace Drank_mixer_app
 
         private void Pomp1_Clicked(object sender, EventArgs e)
         {
-            Arduino.Cummunicate(Convert.ToString(pomp1) + "1");
-            pomp1 = !pomp1;
+            Arduino.Cummunicate("Pomp1");
         }
 
         private void Pomp2_Clicked(object sender, EventArgs e)
         {
-            Arduino.Cummunicate(Convert.ToString(pomp2) + "2");
-            pomp2 = !pomp2;
+            Arduino.Cummunicate("Pomp2");
         }
 
         private void Pomp3_Clicked(object sender, EventArgs e)
         {
-            Arduino.Cummunicate(Convert.ToString(pomp3) + "3");
-            pomp3 = !pomp3;
+            Arduino.Cummunicate("Pomp3");
 
         }
 
         private void Pomp4_Clicked(object sender, EventArgs e)
         {
-            Arduino.Cummunicate(Convert.ToString(pomp4) + "4");
-            pomp4 = !pomp4;
+            Arduino.Cummunicate("Pomp4");
         }
 
         private void Pomp5_Clicked(object sender, EventArgs e)
         {
-            string value = Arduino.CummunicateR("IsErNogFris");
-            titel.Text = Convert.ToString(value);
-            //if ( Convert.ToInt32(value) < 100)
-            //{
-            //    titel.Text = "Jonge er is nog fris";
-            //}
-            //else
-            //{
-            //    titel.Text = "Jonge fris is op";
-            //}
+            Arduino.Cummunicate("Pomp5");
+        }
+
+        private void Pomp6_Clicked(object sender, EventArgs e)
+        {
+            Arduino.Cummunicate("Pomp6");
+        }
+
+        private void Pomp7_Clicked(object sender, EventArgs e)
+        {
+            Arduino.Cummunicate("Pomp7");
+        }
+
+        private void Pomp8_Clicked(object sender, EventArgs e)
+        {
+            Arduino.Cummunicate("Pomp8");
+        }
+
+        private void Fris1_Clicked(object sender, EventArgs e)
+        {
+            string value = Arduino.CummunicateR("Fris1Status");
+            Fris1Status.Text = Convert.ToString(value);
+        }
+
+        private void Fris2_Clicked(object sender, EventArgs e)
+        {
+            string value = Arduino.CummunicateR("Fris2Status");
+            Fris2Status.Text = Convert.ToString(value);
+            
             
         }
     }

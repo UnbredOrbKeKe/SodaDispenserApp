@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XpirXb4G6GQHBtfS5Y+gTHaYm2jNBnJL7WIiBRNLLOlPlrF/Tx4BR9YmH8JJC+qjpF4Sff85RxZSLMvhqoWd/w==",
+  "dgSpecHash": "ypBsaF4oIzdNkedcXlAT9oCFlkyPAzncm74cVjVb/2vrrX57xyraBiJ+kpRcQnZp0SLxlFkXfMAJI4W/i2zn1Q==",
   "success": true,
-  "projectFilePath": "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
+  "projectFilePath": "G:\\arcade project\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melle\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",

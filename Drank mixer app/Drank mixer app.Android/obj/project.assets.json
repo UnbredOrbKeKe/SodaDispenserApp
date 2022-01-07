@@ -2143,26 +2143,23 @@
   },
   "packageFolders": {
     "C:\\Users\\melle\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
+      "projectUniqueName": "G:\\arcade project\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
       "projectName": "Drank mixer app.Android",
-      "projectPath": "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
+      "projectPath": "G:\\arcade project\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
       "packagesPath": "C:\\Users\\melle\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\obj\\",
+      "outputPath": "G:\\arcade project\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\melle\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2176,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
-              "projectPath": "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
+            "G:\\arcade project\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
+              "projectPath": "G:\\arcade project\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
             }
           }
         }

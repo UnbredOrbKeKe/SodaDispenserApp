@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2B82HEv6NS2CZl+1WEAtvKO/Qw/0v/DKS8rc0xdq4xJ9yi2uNZQ7N4X41fao/d4ofB5iLaBIrIER9nsAssdY0A==",
+  "dgSpecHash": "8thxOxCHq7+/JvD8xyPZpF4P+uAFVm9Jy1qEnTtzy2u4x9iTI+eftTJMLbxeRK5GfrqXfZpMrLPi4YDZaw4lmw==",
   "success": true,
-  "projectFilePath": "D:\\School\\nhlstenden\\arcadegameproject\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
+  "projectFilePath": "G:\\arcade project\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.Android\\Drank mixer app.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melle\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

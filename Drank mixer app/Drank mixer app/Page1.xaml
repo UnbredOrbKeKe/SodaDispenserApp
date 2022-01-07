@@ -25,7 +25,9 @@
 
                 <Button Text="settings"
                     Grid.Column="2"
-                        Clicked="Button_Clicked_settings"></Button>
+                        Clicked="Button_Clicked_settings"
+                        BackgroundColor="Orange"
+                        Opacity="10"></Button>
 
             </Grid>
         </StackLayout>

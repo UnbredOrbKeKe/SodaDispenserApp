@@ -109,7 +109,9 @@
             
             <Button Text="pre"
                     Grid.Column="0"
-                    Clicked="Button_Clicked_pre"></Button>
+                    Clicked="Button_Clicked_pre"
+                    BackgroundColor="Orange"
+                        Opacity="10"></Button>
 
                 <Button Text="custom"
                     Grid.Column="1"

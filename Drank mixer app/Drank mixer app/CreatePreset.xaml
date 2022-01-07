@@ -22,7 +22,9 @@
 
                 <Button Text="custom"
                     Grid.Column="1"
-                        Clicked="Button_Clicked_custom"></Button>
+                        Clicked="Button_Clicked_custom"
+                        BackgroundColor="Orange"
+                        Opacity="10"></Button>
 
                 <Button Text="settings"
                     Grid.Column="2"

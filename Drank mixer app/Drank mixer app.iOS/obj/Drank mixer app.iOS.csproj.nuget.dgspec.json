@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj": {}
+    "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj": {
+    "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
         "projectName": "Drank mixer app.iOS",
-        "projectPath": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
-        "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\Drank mixer app.iOS.csproj",
+        "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dennis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
-                "projectPath": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
+              "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
+                "projectPath": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj"
               }
             }
           }
@@ -67,21 +67,21 @@
         }
       }
     },
-    "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
+    "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
+        "projectUniqueName": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
         "projectName": "Drank mixer app",
-        "projectPath": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
-        "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\obj\\",
+        "projectPath": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\Drank mixer app.csproj",
+        "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dennis\\Documents\\GitHub\\SodaDispenserApp\\Drank mixer app\\Drank mixer app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dennis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -134,7 +134,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

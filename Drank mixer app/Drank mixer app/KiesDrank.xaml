@@ -10,6 +10,20 @@
                    FontSize="20"
                 HorizontalOptions="CenterAndExpand" 
                 TextColor="White"/>
+
+            <Label x:Name="Fris1Status"
+                Text="DrankStatus1"
+                   Margin="0, 25, 0, 0"
+                   FontSize="20"
+                HorizontalOptions="CenterAndExpand" 
+                TextColor="White"/>
+
+            <Label x:Name="Fris2Status"
+                Text="DrankStatus2"
+                   Margin="0, 25, 0, 0"
+                   FontSize="20"
+                HorizontalOptions="CenterAndExpand" 
+                TextColor="White"/>
             <Grid HeightRequest="1000">
                 
                 <Grid.ColumnDefinitions>
@@ -74,31 +88,56 @@
                          Grid.Row="2"
                              CornerRadius="25"                            
                              Clicked="Pomp5_Clicked"
-                             BackgroundColor="blue">
+                             BackgroundColor="white">
                     
                 </ImageButton>
 
-                <ImageButton Grid.Column="0"
+                <ImageButton x:Name="Pomp6"
+                    Grid.Column="0"
                          Grid.Row="2"
-                             CornerRadius="25"
-                             BackgroundColor="White">
-                    
+                             CornerRadius="25"                            
+                             Clicked="Pomp6_Clicked"
+                             BackgroundColor="white">
+
                 </ImageButton>
 
-                <ImageButton Grid.Column="1"
+                <ImageButton x:Name="Pomp7"
+                    Grid.Column="1"
                          Grid.Row="3"
-                             CornerRadius="25"
-                             BackgroundColor="White">
-                    
+                             CornerRadius="25"                            
+                             Clicked="Pomp7_Clicked"
+                             BackgroundColor="white">
+
                 </ImageButton>
 
-                <ImageButton Grid.Column="0"
+                <ImageButton x:Name="Pomp8"
+                    Grid.Column="0"
                          Grid.Row="3"
-                             CornerRadius="25"
-                             BackgroundColor="White">
-                    
+                             CornerRadius="25"                            
+                             Clicked="Pomp8_Clicked"
+                             BackgroundColor="white">
+
+                </ImageButton>
+
+                <ImageButton x:Name="Fris1"
+                    Grid.Column="1"
+                         Grid.Row="4"
+                             CornerRadius="25"                            
+                             Clicked="Fris1_Clicked"
+                             BackgroundColor="Purple">
+
                 </ImageButton>
                 
+
+                <ImageButton x:Name="Fris2"
+                    Grid.Column="0"
+                         Grid.Row="4"
+                             CornerRadius="25"                            
+                             Clicked="Fris2_Clicked"
+                             BackgroundColor="Purple">
+
+                </ImageButton>
+
             </Grid>
            
         </StackLayout>

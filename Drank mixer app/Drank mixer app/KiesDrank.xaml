@@ -24,24 +24,24 @@
                    FontSize="20"
                 HorizontalOptions="CenterAndExpand" 
                 TextColor="White"/>
-            <Grid HeightRequest="1000">
-                
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition></ColumnDefinition>
-                    <ColumnDefinition></ColumnDefinition>
-                </Grid.ColumnDefinitions>
-                
-               
-                    <Grid.RowDefinitions>
-                        <RowDefinition></RowDefinition>
-                        <RowDefinition></RowDefinition>
-                        <RowDefinition></RowDefinition>
-                        <RowDefinition></RowDefinition>
-                    </Grid.RowDefinitions>
 
-               
+            <ScrollView>
+            <Grid HeightRequest="1000">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+
                 <ImageButton x:Name="Pomp1"
-                             Grid.Column="1"
                              Grid.Row="0"
                              Source="https://logos-world.net/wp-content/uploads/2020/03/Coca-Cola-Logo-1987-2009.png"
                              Padding="4, 0, 4, 0"
@@ -53,8 +53,7 @@
 
 
                 <ImageButton x:Name="Pomp2"
-                             Grid.Column="0"
-                             Grid.Row="0"
+                             Grid.Row="1"
                              Source="https://www.drankgigant.nl/media/catalog/product/cache/5302153a4b78cff75d07c130fe2dbf33/s/o/sonnema_beerenburg_logo_4.webp"
                              Padding="4, 0, 4, 0"
                              Clicked="Pomp2_Clicked"
@@ -65,8 +64,7 @@
                 </ImageButton>
 
                 <ImageButton x:Name="Pomp3"
-                    Grid.Column="1"
-                        Grid.Row="1"
+                        Grid.Row="2"
                              CornerRadius="25"
                              BackgroundColor="White"
                              Clicked="Pomp3_Clicked">
@@ -75,8 +73,7 @@
 
 
                 <ImageButton x:Name="Pomp4"
-                    Grid.Column="0"
-                         Grid.Row="1"
+                         Grid.Row="3"
                              CornerRadius="25"
                              BackgroundColor="White"
                              Clicked="Pomp4_Clicked">
@@ -84,8 +81,7 @@
                 </ImageButton>
 
                 <ImageButton x:Name="Pomp5"
-                    Grid.Column="1"
-                         Grid.Row="2"
+                         Grid.Row="4"
                              CornerRadius="25"                            
                              Clicked="Pomp5_Clicked"
                              BackgroundColor="white">
@@ -93,8 +89,7 @@
                 </ImageButton>
 
                 <ImageButton x:Name="Pomp6"
-                    Grid.Column="0"
-                         Grid.Row="2"
+                         Grid.Row="5"
                              CornerRadius="25"                            
                              Clicked="Pomp6_Clicked"
                              BackgroundColor="white">
@@ -102,8 +97,7 @@
                 </ImageButton>
 
                 <ImageButton x:Name="Pomp7"
-                    Grid.Column="1"
-                         Grid.Row="3"
+                         Grid.Row="6"
                              CornerRadius="25"                            
                              Clicked="Pomp7_Clicked"
                              BackgroundColor="white">
@@ -111,8 +105,7 @@
                 </ImageButton>
 
                 <ImageButton x:Name="Pomp8"
-                    Grid.Column="0"
-                         Grid.Row="3"
+                         Grid.Row="7"
                              CornerRadius="25"                            
                              Clicked="Pomp8_Clicked"
                              BackgroundColor="white">
@@ -120,8 +113,7 @@
                 </ImageButton>
 
                 <ImageButton x:Name="Fris1"
-                    Grid.Column="1"
-                         Grid.Row="4"
+                         Grid.Row="8"
                              CornerRadius="25"                            
                              Clicked="Fris1_Clicked"
                              BackgroundColor="Purple">
@@ -130,8 +122,7 @@
                 
 
                 <ImageButton x:Name="Fris2"
-                    Grid.Column="0"
-                         Grid.Row="4"
+                         Grid.Row="9"
                              CornerRadius="25"                            
                              Clicked="Fris2_Clicked"
                              BackgroundColor="Purple">
@@ -139,7 +130,30 @@
                 </ImageButton>
 
             </Grid>
-           
+            </ScrollView>
+
+            <Grid HeightRequest="100">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Button Text="pre"
+                        Grid.Column="0"
+                        Clicked="Button_Clicked_pre"
+                        BackgroundColor="Orange"
+                        Opacity="10"></Button>
+
+                <Button Text="Custom"
+                        Grid.Column="1"
+                        Clicked="Button_Clicked_Custom"></Button>
+
+                <Button Text="Settings"
+                        Grid.Column="2"
+                        Clicked="Button_Clicked_Settings"></Button>
+            </Grid>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -72,5 +72,20 @@ namespace Drank_mixer_app
             
             
         }
+
+        private void Button_Clicked_pre(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button_Clicked_Custom(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button_Clicked_Settings(object sender, EventArgs e)
+        {
+
+        }
     }
 }
